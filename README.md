@@ -1,7 +1,3 @@
-Below is **professional, submission-ready documentation** for the **Java Dice Game Applet** you provided.
-Structured, technical, and suitable for academic evaluation.
-
----
 
 # Dice Game Using Java Applet and AWT
 
