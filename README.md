@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project implements a **two-player dice game** using **Java Applet**, **AWT**, and **event-driven programming**. Each player rolls a virtual die alternately. The first player to reach or exceed a predefined score threshold wins the game. The application visually renders dice faces, tracks scores, and displays the winner graphically.
+This project implements a **two-player dice game** using **Java Applet**, **AWT**, and **event-driven programming**. Each player rolls a virtual die alternately. The first player to reach or exceed a predefined score threshold wins the game. The application visually rendrrs dice faces, tracks scores, and displays the winner graphically.
 
 ---
 
